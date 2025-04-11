@@ -1,0 +1,3 @@
+﻿  cw5OOP.cpp
+C:\Users\danie\OneDrive\Desktop\Visual Studio C++\cw5OOP\cw5OOP\cw5OOP.cpp(63,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cw5OOP.vcxproj -> C:\Users\danie\OneDrive\Desktop\Visual Studio C++\cw5OOP\x64\Debug\cw5OOP.exe
